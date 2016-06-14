@@ -1,6 +1,6 @@
-# Flume Spooling Directory Source: support sub-directories recursivly
+# Flume Spooling Directory Source
 
-Flume-NG 's SpoolingDirectorySource does not support recursivly traversal the directory. So I have developed this feature to support.
+Flume-NG 's SpoolingDirectorySource does not support recursivly traversal the directory. So I have developed this feature to support monitor sub-directories recursivly.
 
 **NOTE 1: SpoolRecursiveDirectorySource plugin is built for Flume-NG 1.6.0 and will not work on Flume-OG**
 
